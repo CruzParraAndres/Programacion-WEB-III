@@ -1,0 +1,2 @@
+/*Un callback es una función que se pasa como argumento a otra función, para que se ejecute después de que algo ocurra. Es útil cuando queremos controlar el orden de ejecución, especialmente en tareas simples o inmediatas.
+Una promesa representa una operación que toma tiempo y que puede completarse más adelante. Nos permite manejar el resultado cuando esté listo, sin bloquear el resto del código.*/ 
